@@ -1,6 +1,7 @@
+print("benvenuto nel socializzatore")
 nome = input("come ti chiami?")
 print("piacere di conoscerti",nome)
 età = int(input("quanti anni hai?"))
 print("anchio, e dove abiti tu?")
 abitazione = input() 
- 
+hobby = input("qual'è la tua attivita preferita nelle ore libere?")
