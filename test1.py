@@ -1,2 +1,3 @@
 nome = input("come ti chiami?")
-print("piacere di conoscerti",nome)
+età = input("piacere di conoscerti",nome,"quanti anni hai?")
+ 
