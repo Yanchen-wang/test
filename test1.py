@@ -1,3 +1,6 @@
 nome = input("come ti chiami?")
-età = input("piacere di conoscerti",nome,"quanti anni hai?")
+print("piacere di conoscerti",nome)
+età = int(input("quanti anni hai?"))
+print("anchio, e dove abiti tu?")
+abitazione = input() 
  
